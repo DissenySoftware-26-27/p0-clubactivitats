@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="io.cucumber.picocontainer" type="repository">
+    <properties maven-id="io.cucumber:cucumber-picocontainer:7.15.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-picocontainer-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-core-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-gherkin-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-gherkin-messages-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gherkin-26.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/messages-22.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tag-expressions-6.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-expressions-17.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/datatable-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cucumber-plugin-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/docstring-7.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/html-formatter-20.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-xml-formatter-0.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ci-environment-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/picocontainer-2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
